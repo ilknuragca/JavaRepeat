@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Que1 {
+public class Que_1 {
     public static void main(String[] args) {
         /*
          * Anagram is to create a new word from other word's characters.
